@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<title>preserve example</title>
+	</head>
+	<body>
+	<pre>
+		function textfunction(strText){
+		alert(strText)
+		}
+	</pre>	
+	<p>
+		function textfunction(strText){
+		alert(strText)
+		}
+	</p>	
+	</body>
+</html>
