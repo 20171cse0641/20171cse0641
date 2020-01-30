@@ -1,0 +1,69 @@
+<html dir="ltl">
+	<head>
+		<title>display direction</title>
+	</head>
+	<body>
+	<h1>heading 1</h1>
+	<h2>heading 2</h2>
+	<h3>heading 3</h3>
+	<h4>heading 4</h4>
+	<h5>heading 5</h5>
+	<h6>heading 6</h6><hr/>
+	<pre>
+		function textfunction(strText){
+		alert(strText)
+		}
+	</pre>	
+	<p>
+		function textfunction(strText){
+		alert(strText)
+		}
+	</p><hr/>
+	<P align="left">this is left aligned</p>
+	<P align="center">this is center aligned</p>
+	<P align="right">this is right aligned</p>
+	<h3 title="hello HTML!">titled heading tag example</h3>	
+	<b>presidency university located in blore</b><br/>
+	<i>presidency university located in blore</i><br/>
+	<u>presidency university located in blore</u><br/>
+	<strike>presidency university located in blore</strike><br/>
+	<tt>presidency university located in blore</tt><br/>
+	presidency university <sup>located in blore</sup><br/>
+	presidency university <sub>located in blore</sub><br/>
+	H<sub>2</sub>O<br/>
+	<big>presidency university located in blore</big><br/>
+	<small>presidency university located in blore</small><br/>
+	<div>presidency university located in blore</div>that to in rajanukunte<br/>
+	<span>presidency university located in blore that to in rajanukunte</span><br/>
+	<em>presidency university located in blore that to in rajanukunte</em><br/>
+	<mark>presidency university located in blore that to in rajanukunte</mark><br/>
+	<strong>presidency university located in blore that to in rajanukunte</strong><br/>
+	<q>presidency university located in blore that to in rajanukunte</q><br/>
+	<div id="menu" align="middle">
+	<a href ="http://presidencyuniversity.in">HOME</a>|
+	<a href ="/about/contact_us.html">CONTACT</a>|
+	<a href ="/about/index.htm">ABOUT</a>
+	</div>
+	<p> this is an example of <span style="color:green">span tag</span> and the <span 		style="color:red">div tag</span> along with CSS</p><br/>
+	<ul>
+	<li>A</li>
+	<li>B<ul>
+	<li>A</li>
+	<li>B<ul>
+	<li>A</li>
+	<li>B</li>
+	</ul></li>
+	</ul></li>
+	</ul>
+
+	<ul type="square">
+	<li>A</li>
+	<li>B</li>
+	</ul>
+	
+	<ol>
+	<li>A</li>
+	<li>B</li>
+	</ol>
+	</body>
+</html>
