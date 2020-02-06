@@ -136,12 +136,77 @@
 	</tr>
 	</table><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+	<table border="1" bgcolor="yellow">
+	<tr>
+	<th>c1</th>
+	<th>c2</th>
+	<th>c3</th>
+	<th rowspan="1">c4</th>
+	</tr>
+	
+	<tr>
+	<td rowspan="2">r1c1</td>
+	<td>r1c2</td>
+	<td>r1c3</td>
+	</tr>
+
+	<tr>
+	<td>r2c2</td>
+	<td>r2c3</td>
+	</tr>
+
+	<tr>
+	<td colspan="3" align="center">r3c1</td>
+	</tr>
+	</table>
+
 	<a href="#bookmark_name">go to book mark</a><br/><br/><br/>
 	
 	<p>setting image alignment</p>
-	<img src="/home/Sem6B10/Desktop/index.jpeg" alt="test image" border="3" align="left" 		width="50%"/><br/>
+	<img src="/home/Sem6B10/Desktop/index.jpeg" alt="test image" border="3" align="left" 		width="25%"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+	<a href="mailto:s.shilpa1308@gmail.com">send email</a><br/><br/>
+
+	<font size="1">shilpa="1"</font><br/>
+	<font size="2">shilpa="2"</font><br/>
+	<font size="3">shilpa="3"</font><br/>
+	<font size="4">shilpa="4"</font><br/>
+	<font size="5">shilpa="5"</font><br/>
+	<font size="6">shilpa="6"</font><br/>
+	<font size="7">shilpa="7"</font><br/>
 	
+	<marquee direction="right">example of marquee</marquee>
 	
+	<tagname style="property:value;">
+	<body style="background-color:lightblue;">
+	<h1 style="color:red;"">this is heading</h1>
+	<p style="color:blue;"">this is paragraph</p>
+	<h1 style="font-family:verdana;"">this is heading</h1>
+	<p style="font-family:courier;"">this is paragraph</p>
+	<h1 style="font-size:300%;"">this is heading</h1>
+	<p style="font-size:160%;"">this is paragraph</p>
+	<h1 style="text-align:center;"">centered heading</h1>
+	<p style="text-align:center;"">centered paragraph</p>
+
+	<h1 style="background-color:Dodgerblue;">hello world</h1>
+	<p style="background-color:tomato;">lorem ipsum</p>
+	<h1 style="color:tomato;">hello world</h1>
+	<p style="color:Dodgerblue;">lorem ipsum</p>
+	<p style="color:mediumseagreen;">ut wisi enim</p>
+	<h1 style="background-color:rgb(255,99,71);"></h1>
+	<h1 style="background-color:#ff6347;"></h1>
+	<h1 style="background-color:hsl(9,100%,64%);"></h1>
+
+
+	</tagname>
+
+
+	<a href="https://www.google.com">
+	<image src="/home/Sem6B10/Desktop/index.jpeg" alt="image as link"
+	style="eidth:42px;height:42px;border:0;">
+	</a>
 	
+	<p><img src="/home/Sem6B10/Desktop/index.jpeg" alt="gmail"			 		style="float:right;width:42px;height;42px;">
+	image will float to right of text</p>
 	</body>
 </html>
