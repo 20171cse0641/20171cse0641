@@ -2,7 +2,9 @@
 	<head>
 		<title>display direction</title>
 	</head>
-	<body>
+	<body style="background-image:url('/home/Sem6B10/Desktop/20171cse0641/image1.jpeg');">
+	<h2>Backround image</h2>
+	</style>
 	<h1>heading 1</h1>
 	<h2>heading 2</h2>
 	<h3>heading 3</h3>
@@ -206,7 +208,25 @@
 	style="eidth:42px;height:42px;border:0;">
 	</a>
 	
-	<p><img src="/home/Sem6B10/Desktop/index.jpeg" alt="gmail"			 		style="float:right;width:42px;height;42px;">
+	<p><img src="/home/Sem6B10/Desktop/index.jpeg" alt="gmail"			 		style="float:right;width:42px;height:42px;">
 	image will float to right of text</p>
+
+	<p><img src="/home/Sem6B10/Desktop/index.jpeg" alt="gmail"			 		style="float:left;width:42px;height:42px;">
+	image will float to left of text</p>
+	
+	<img src="/home/Sem6B10/Desktop/20171cse0641/images.jpeg" alt="musicalinstruments"	  		usemap="#instruments"><br/>
+
+	<map name="instruments">
+	<area shape="rect" coords="34,44,270,350" alt="violin" href="https://www.google.com">
+	<area shape="rect" coords="290,172,333,250" alt="guiter" href="https://www.facebook.com">
+	<area shape="circle" coords="337,300,44" alt="rountinst" href="">
+	</map>
+	
+	<div style="background-image:url('/home/Sem6B10/Desktop/20171cse0641/image2.jpeg');">	
+	<p>t is the most important and busiest part not for only Karnataka but also in total 		southern India. It serves as the capital city of Karnataka as well as industrial capital 		also. Bangalore also refers to as Garden City of India due to its wide range of gardens 	and parks throughout the city.</p>
+	</div>
 	</body>
+
+	<iframe src="http://www.edhitch.com"></iframe>
+	<iframe src="https://www.google.com/search?			client=ubuntu&channel=fs&q=bangalore&ie=utf-8&oe=utf-8"/ height="200" width="300"></iframes>
 </html>
