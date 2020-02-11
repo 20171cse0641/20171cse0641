@@ -223,10 +223,12 @@
 	</map>
 	
 	<div style="background-image:url('/home/Sem6B10/Desktop/20171cse0641/image2.jpeg');">	
-	<p>t is the most important and busiest part not for only Karnataka but also in total 		southern India. It serves as the capital city of Karnataka as well as industrial capital 		also. Bangalore also refers to as Garden City of India due to its wide range of gardens 	and parks throughout the city.</p>
+	<p>t is &nbsp the most &nbsp important and busiest part not for only Karnataka but also in total 		southern India. It serves as the capital city of Karnataka as well as industrial 	  capital also. Bangalore also refers to as Garden City of India due to its wide   		range of gardens and parks throughout  the city.t is &nbsp the most &nbsp important and busiest part not for only Karnataka but also in total 		southern India. It serves as the capital city of Karnataka as well as industrial 	  capital also. Bangalore also refers to as Garden City of India due to its wide   		range of gardens and parks throughout  the city</p>
 	</div>
-	</body>
+	
 
-	<iframe src="http://www.edhitch.com"></iframe>
-	<iframe src="https://www.google.com/search?			client=ubuntu&channel=fs&q=bangalore&ie=utf-8&oe=utf-8"/ height="200" width="300"></iframes>
+	<iframe src="http://www.edhitch.com" height="200" width="350"></iframe>
+	<iframe src="https://en.wikipedia.org/wiki/Bangalore" height="200" width="350" 			name="ihhd"></iframe><br/>
+	<p><a href="https://www.nasa.gov/" target="ihhd">Load new web page</a></p>
+</body>
 </html>
