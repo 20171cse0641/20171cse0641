@@ -1,0 +1,93 @@
+<html>
+	<head>
+		<title>resume</title>
+	</head>
+	
+	<body style="padding:50;">
+	<div align="left" style="padding:50;background-color:lightblue;">
+	<p><img src="/home/Sem6B10/Desktop/a.jpeg" 			 		style="float:right;width:150px;height:150px;">
+	</p>
+	<p>Shilpa S</p></br>
+	<a href="mailto:s.shilpa1308@gmail.com">s.shilpa1308@gmail.com</a><br/ 	><br/>
+	<p><u>+91-8073722988</u></p>
+	</br><hr/>
+	
+	<p><h3>CV Highlights</h3></p>
+	<ul>
+	<li>A</li>
+	<li>B</li>
+	<li>C</li>
+	<li>D</li>
+	<li>E</li>
+	</ul><hr/>
+	
+	<p><h3>Personal Experience</h3></p>
+	<ul>
+	<li><h5>XYZ pvt lmt</h5></li>
+	</ul>
+	<ul>
+	<p>job responsibilities</p>
+	<li>A</li>
+	<li>B</li>
+	<li>C</li>
+	</ul><hr/>
+	
+	<p><h3>Educational Qualification</h3></p>
+	<table border="1" cellspacing="2" width="40%" cellpadding="5" 	align="left">
+
+	<tr>
+	<th> Qualification </th>
+	<th> Bord </th>
+	<th> Percentage/grade</th>
+	<th>year of passing</th>
+	</tr>
+
+	<tr>
+	<td> r1,c1 </td>
+	<td> r1,c2 </td>
+	<td> r1,c3 </td>
+	<td> r1,c4 </td>
+	</tr>
+
+	<tr>
+	<td> r2,c1 </td>
+	<td> r2,c2 </td>
+	<td> r2,c3 </td>
+	<td> r2,c4 </td>
+	</tr>
+
+	<tr>
+	<td> r3,c1 </td>
+	<td> r3,c2 </td>
+	<td> r3,c3 </td>
+	<td> r3,c4 </td>
+	</tr>
+
+	<tr>
+	<td> r4,c1 </td>
+	<td> r4,c2 </td>
+	<td> r4,c3 </td>
+	<td> r4,c4 </td>
+	</tr>
+
+	</table>
+	
+	</body>
+
+</html>
+
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
