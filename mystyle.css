@@ -23,6 +23,7 @@ p.abstract{
 	border-top-style:dotted;
 	border-top-style:dotted;
 	margin:25px 50px 75px 100px;
+	padding-top:50px;
 }
 p.normal{
  	color:black;
@@ -59,5 +60,89 @@ div{
 	width:300px;
 	margin:auto;
 	border:2px solid black;
-	background-color:blue;
+	background-color:cyan;
+	padding:25px 50px 75px 100px;
 	}
+p.a{
+	margin:2cm;
+	padding:5px;
+	border:dashed green 2px;
+	font-family:"serif"
+	font-size:20px;
+	text-align:center;
+}
+li{
+	display:inline;
+}
+
+a{
+	display:block;
+}
+span.a{
+	display:inline;
+	width:100px;
+	height:350px;
+	padding:5px;
+	background-color:yellow;
+}
+span.b{
+	display:inline-block;
+	width:100px;
+	height:350px;
+	padding:5px;
+	border:1px solid blue;
+	background-color:yellow;
+}
+span.c{
+	display:block;
+	width:100px;
+	height:350px;
+	padding:5px;
+	border:1px solid blue;
+	background-color:yellow;
+}
+a{
+	display:inline;
+	padding:10px;
+	font-size:20px;
+}
+.a{
+	text-decoration:underline;	
+}
+.b{
+	color:green;
+	text-decoration:none;	
+}
+.c{
+	border:4px solid green;	
+	width:200px;
+	text-decoration:none;
+}
+.d{
+	border:1px solid brown;	
+	background-color:brown;
+	width:200px;
+	text-decoration:none;
+}
+a.a:link{
+	text-decoration:underline;
+	color:green;	
+}
+a.b:hover{
+	color:yellow;
+	text-decoration:none;	
+}
+a.c:visited{
+	border:4px solid green;	
+	width:200px;
+	text-decoration:none;
+	color:black;
+}
+a.d:active{
+	border:1px solid brown;	
+	background-color:brown;
+	width:200px;
+	text-decoration:none;
+	color:yellow;
+}
+
